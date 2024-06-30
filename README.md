@@ -13,5 +13,11 @@ For details on setting up the AIFictioneer application, see our [Installation‐
 
 Explore our [API Documentation](https://github.com/Alireza-Ahmady/AIFictioneer/wiki/API-Overview)] for tools and endpoints to create and refine your interactive fiction.
 
+## Application Access for Testing
+
+For testing purposes, visit the following link: [AIFictioneer Application](https://aifictioneer.nl/). Please note that access to the application requires a username and password. For access details, please contact me via email at [alireza.ahmady@uva.nl](mailto:alireza.ahmady@uva.nl).
+
 ## Disclaimer
 This project is open-source and freely available for use under the MIT License. You are free to use, modify, and distribute this application as long as proper attribution is given.
+
+
