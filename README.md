@@ -15,6 +15,8 @@ Explore our [API Documentation](https://github.com/Alireza-Ahmady/AIFictioneer/w
 
 ## Application Access for Testing
 
+The username and password for the supervisor and examiner are both my student ID.
+
 For testing purposes, visit the following link: [AIFictioneer Application](https://aifictioneer.nl/). Please note that access to the application requires a username and password. For access details, please contact me via email at [alireza.ahmady@uva.nl](mailto:alireza.ahmady@uva.nl).
 
 ## Disclaimer
